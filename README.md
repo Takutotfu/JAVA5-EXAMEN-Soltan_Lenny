@@ -172,7 +172,7 @@ This documentation describes the technical workings of a project consisting of o
 - **Parameters**:
   - `auteurId` (path): Unique identifier of the player.
 - **Response**:
-  ```json
+```json
 {
   "id": 2,
   "nom": "Doe",
